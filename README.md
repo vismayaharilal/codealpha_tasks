@@ -35,7 +35,8 @@ Included:
 
 Folder:
 
-`ECommerce_Sales_EDA`
+`Task_2_ECommerce_Sales_EDA`
+
 
 ---
 
