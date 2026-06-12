@@ -35,7 +35,7 @@ Included:
 
 Folder:
 
-`Task_2_ECommerce_Sales_EDA`
+`ECommerce_Sales_EDA`
 
 
 ---
@@ -94,5 +94,3 @@ codealpha_tasks
 ├── ECommerce_Sales_EDA
 └── ECommerce_Data_Visualization
 ```
-
----
